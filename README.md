@@ -11,6 +11,6 @@ To run the project it is necessary to install
 npm install --save-dev jest
 ```
 ```sh
-npm install fetch
+npm install node-fetch
 ```
 
